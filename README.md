@@ -1,2 +1,2 @@
 # Java_programs
-All the codes I have practiced over time to learn java
+All the code challenges I have solved while learning java
